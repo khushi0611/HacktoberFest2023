@@ -1,5 +1,11 @@
 # HacktoberFest2023
 
+# what you can do..
+- Edits to the Frontend.
+- Add new codes
+- edit in README.md file
+- Add more inovative method to solve the problem
+
 ## Getting Started WITH 🤩🤗:
 
 - Fork this repo--- (button on top)
