@@ -1,10 +1,15 @@
 # HacktoberFest2023
+- A Documentation repo for Biggeners to paricipate in the Opensource Fest.
+- anyone can participate.
+- I will make sure that your request will be merged if has a sence @*@.
 
-# what you can do..
-- Edits to the Frontend.
-- Add new codes
-- edit in README.md file
+ <br>
+ 
+# What you can do..
+- Add yor DSA codes from differnt view
+- Edit in README.md file
 - Add more inovative method to solve the problem
+  
 
 ## Getting Started WITH 🤩🤗:
 
